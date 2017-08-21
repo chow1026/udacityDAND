@@ -1,8 +1,8 @@
-# Udacity Data Analyst NanoDegree - Welcome Project
+# Bay Area Bike Ride Analysis
 
 ## Summary
 
-This is the repo for the welcome project for the Udacity Data Analyst NanoDegree.  It is a project aimed to provide a peek into data analysis.  The project is NOT an required course for the Udacity Data Analyst NanoDegree program.  
+This is the repo for the data analysis of Bay Area Bike Ride.  It is a project aimed to provide a peek into data analysis.  
 
 ## Environment Requirements
 
